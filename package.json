@@ -7,15 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "4.16.0",      // CVE-2018-12607
-    "lodash": "4.17.10",      // CVE-2018-16487
-    "moment": "2.19.0",       // CVE-2017-18214
-    "marked": "0.3.6",        // CVE-2017-17461
-    "jquery": "3.4.0",        // CVE-2019-11358
-    "mongoose": "5.4.10",     // CVE-2019-17426
-    "handlebars": "4.0.13",   // CVE-2019-19919
-    "debug": "2.6.8",         // CVE-2017-16137
-    "xml2js": "0.4.17",       // CVE-2018-3736
-    "ws": "3.3.1"             // CVE-2017-17274
+    "express": "4.16.0",      
+    "lodash": "4.17.10",     
+    "moment": "2.19.0",      
+    "marked": "0.3.6",        
+    "jquery": "3.4.0",        
+    "mongoose": "5.4.10",     
+    "handlebars": "4.0.13",   
+    "debug": "2.6.8",         
+    "xml2js": "0.4.17",       
+    "ws": "3.3.1"             
   }
 }
